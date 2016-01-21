@@ -1,1 +1,9 @@
-      9      85    1036
+Scaffold881	GLEAN3-UTR	gene	59053	94582	.	-	.	ID=SPU_025302gn;Name=SPU_025302;
+Scaffold881	GLEAN3-UTR	transcript	59053	94582	.	-	.	ID=SPU_025302-tr;Name=Sp-Alx1;Parent=SPU_025302gn;Dbxref=SpBase:SPU_025302,Baylor_Sp:SPU_025302;Alias=SPU_025302,NA;Note="This gene is manually annotated";
+Scaffold881	GLEAN3-UTR	exon	94546	94582	.	-	.	ID=SPU_025302:5";Name=SPU_025302:5";Parent=SPU_025302-tr;
+Scaffold881	GLEAN3-UTR	exon	89086	89453	.	-	.	ID=SPU_025302:4";Name=SPU_025302:4";Parent=SPU_025302-tr;
+Scaffold881	GLEAN3-UTR	exon	88680	88763	.	-	.	ID=SPU_025302:3";Name=SPU_025302:3";Parent=SPU_025302-tr;
+Scaffold881	GLEAN3-UTR	exon	64349	64480	.	-	.	ID=SPU_025302:2";Name=SPU_025302:2";Parent=SPU_025302-tr;
+Scaffold881	GLEAN3-UTR	exon	63168	63380	.	-	.	ID=SPU_025302:1";Name=SPU_025302:1";Parent=SPU_025302-tr;
+Scaffold881	GLEAN3-UTR	exon	61717	62175	.	-	.	ID=SPU_025302:0";Name=SPU_025302:0";Parent=SPU_025302-tr;
+Scaffold881	GLEAN3-UTR	three_prime_UTR	59053	61716	.	-	.	ID=SPU_025302_3UTR:0";Name=SPU_025302_3UTR:0";Parent=SPU_025302-tr;
