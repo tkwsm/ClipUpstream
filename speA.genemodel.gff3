@@ -1,0 +1,16 @@
+scaffold1647	maker	gene	41974	84009	.	+	.	ID=HPU_02919;Name=HPU_02919
+scaffold1647	maker	mRNA	41974	84009	.	+	.	ID=HPU_02919-mRNA-1;Parent=HPU_02919;Name=HPU_02919-mRNA-1;_AED=0.08;_eAED=0.08;_QI=432|1|1|1|0.6|0.66|6|2253|430
+scaffold1647	maker	exon	41974	42442	.	+	.	ID=HPU_02919-mRNA-1:exon:11096;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	5-utr	41974	42405	.	+	.	ID=HPU_02919-mRNA-1:5-utr;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	CDS	42406	42442	.	+	0	ID=HPU_02919-mRNA-1:cds;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	exon	47691	48058	.	+	.	ID=HPU_02919-mRNA-1:exon:11097;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	CDS	47691	48058	.	+	2	ID=HPU_02919-mRNA-1:cds;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	exon	48374	48457	.	+	.	ID=HPU_02919-mRNA-1:exon:11098;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	CDS	48374	48457	.	+	0	ID=HPU_02919-mRNA-1:cds;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	exon	72250	72381	.	+	.	ID=HPU_02919-mRNA-1:exon:11099;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	CDS	72250	72381	.	+	0	ID=HPU_02919-mRNA-1:cds;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	exon	80075	80287	.	+	.	ID=HPU_02919-mRNA-1:exon:11100;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	CDS	80075	80287	.	+	0	ID=HPU_02919-mRNA-1:cds;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	exon	81298	84009	.	+	.	ID=HPU_02919-mRNA-1:exon:11101;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	CDS	81298	81756	.	+	0	ID=HPU_02919-mRNA-1:cds;Parent=HPU_02919-mRNA-1
+scaffold1647	maker	3-utr	81757	84009	.	+	.	ID=HPU_02919-mRNA-1:3-utr;Parent=HPU_02919-mRNA-1
